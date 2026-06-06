@@ -1,0 +1,28 @@
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background: #111;
+  color: white;
+}
+
+a {
+  color: white;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+img {
+  width: 100px;
+}
